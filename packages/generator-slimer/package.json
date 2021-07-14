@@ -30,6 +30,6 @@
   "dependencies": {
     "chalk": "2.4.2",
     "lodash": "4.17.21",
-    "yeoman-generator": "2.0.5"
+    "yeoman-generator": "5.4.0"
   }
 }
