@@ -31,7 +31,7 @@
     "bluebird": "^3.5.2",
     "debug": "^4.0.1",
     "find-root": "^1.1.0",
-    "fs-extra": "^8.0.0",
+    "fs-extra": "^10.0.0",
     "is-public": "^1.1.0",
     "lodash": "^4.17.11",
     "mkdirp": "^0.5.1",
