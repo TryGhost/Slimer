@@ -34,7 +34,7 @@
     "fs-extra": "^8.0.0",
     "is-public": "^1.1.0",
     "lodash": "^4.17.11",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "yeoman-environment": "^2.3.3"
   }
 }
