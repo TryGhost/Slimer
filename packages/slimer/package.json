@@ -35,6 +35,6 @@
     "is-public": "^1.1.0",
     "lodash": "^4.17.11",
     "mkdirp": "^0.5.1",
-    "yeoman-environment": "^2.3.3"
+    "yeoman-environment": "^3.0.0"
   }
 }
